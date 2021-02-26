@@ -86,13 +86,13 @@ a.fa {
 }
 
 .paymentWrap .paymentBtnGroup .paymentMethod .method.visa {
-  background-image: url(/visa.png);
+  background-image: url(visa.png);
 }
 .paymentWrap .paymentBtnGroup .paymentMethod .method.mastercard {
-  background-image: url(/mastercard.png);
+  background-image: url(mastercard.png);
 }
 .paymentWrap .paymentBtnGroup .paymentMethod .method.swed {
-  background-image: url(/swed.png);
+  background-image: url(swed.png);
 }
 
 .carousel-item img {
